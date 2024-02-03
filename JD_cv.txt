@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Jonathan Dose</h1>
+
+<h2 style="color:blue;">Education</h2>
+<p>
+09/2010 — 06/2015: <b> Ph.D. in Computer Programming, </b> <i> New York University (NYU), </i> New York, New York.<br><br>
+09/2006 — 06/2010:  <b> B.Eng. in Hardware Institute, </b> <i> McMaster University, </i> Hamilton, Ontario, Canada. 
+</p>
+
+<h2 style="color:blue;">Research Interests</h2>
+  <b>
+  <dd>- Data Structuring</dd>
+  <dd>- Databases</dd>
+  <dd>- U/I Design</dd>
+  <dd>- Web Dev</dd>
+  </b>
+
+<h2 style="color:blue;">Internships</h2>
+10/2010 — 9/2012:  <b> Web Developer Assistant, </b> <i> LendingTree, </i> Charlotte, North Carolina, United States.<br>
+	•	Assisted in designing, creating and stylizing webpages.<br>
+	•	Supervisor: Dr. Fuki Chong.<br><br>
+
+
+03/2009 — 07/2010:  <b> U/I Designer, </b> <i> Infor, </i> New York, New York, United States.<br>
+	•	Worked on U/I design interfaces and web interfaces.<br> 
+	•	Designed U/I interfaces for use of easability for the general public.<br>
+	•	Designed web interfaces to make it an easy-to-use platform for users.<br>
+	•	Supervisor: Dr. Hu Chu. <br><br>
+
+07/2008 — 03/2009:  <b> Database Analyst, </b> <i> Vistaprint, </i> Venlo, Netherlands, Europe.<br> 
+	•	Analyzing databases.<br>
+	•	Creating, editing and rendering databases.<br>
+	•	Supervisor: Dr. Kung Fu.<br><br>
+
+07/2007 — 08/2008:  <b> Data Structure Intern, </b> <i> General Electric, </i> Boston, Massachusetts, United States.<br> 
+	•	Data structuring parent nodes in trees.<br>
+	•	Supervisor: Dr. Suzi Li.<br>
+
+<h2 style="color:blue;">Awards</h2>
+2014, 2015<br>
+<b> The Fastest Typologist in New York of the Year. </b> <i> New York University (NYU). </i><br><br>
+2012, 2013<br>
+<b> KD Computer Engineer of the Year. </b> <i> New York University (NYU). </i><br><br>
+2010—2015<br> 
+<b> Postgraduate Scholarships. </b> <i> New York University (NYU). </i><br><br>
+2010—2011<br> 
+<b> New York’s Laboratory of Technological Enterprises Scholarships. </b> <i> New York University (NYU). </i><br><br>
+2009<br> 
+<b> SIMGD Data Analyst Award. </b> <i> McMaster University. </i><br><br>
+2007<br> 
+<b> 1st Prize in SL Competition. </b> <i> McMaster University. </i>
+</body>
+</html>
+
